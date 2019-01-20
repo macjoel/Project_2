@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(157, 214, 228);
+}
+#main-body{
+    margin-top: -25px;
+    margin-left: 200px;
+    margin-bottom: 65px;
+    margin-right: 200px;
+    background-color: rgb(250, 248, 248);
+    border-radius: 5px;
+}
+#title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 44px;
+}
+#description{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.top-decription{
+    margin-top: 60px;
+    border-radius: 5px 5px 0px 0px;
+    background-color: rgb(47, 50, 95);
+}
+#name-label{
+    font-size: 20px;
+}
+#name{
+    height: 28px;
+    width: 20%;
+    margin-left: 10px;
+    border: 1px solid rgb(230, 227, 227);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#email-label{
+    font-size: 20px; 
+}
+#email{
+    height: 28px;
+    width: 20%;
+    margin-left: 10px;
+    border: 1px solid rgb(230, 227, 227);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#number-label{
+    font-size: 20px; 
+}
+#number{
+    height: 28px;
+    width: 20%;
+    margin-left: 23px;
+    border: 1px solid rgb(230, 227, 227);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#select-label{
+    font-size: 20px; 
+    float: left;
+    margin-left: 15px;
+}
+#dropdown{
+    height: 28px;
+    float: left;
+    margin-left: 23px;
+    border: 1px solid rgb(230, 227, 227);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#choice-label{
+    font-size: 20px; 
+    float: left;
+    text-align: right;
+    margin-left: 15px;
+}
+.choice{
+    float: left;
+    margin-left: 50px;
+    text-align: left;
+}
+#choice-label2{
+    font-size: 20px;
+    float: left;
+    margin-left: 140px;
+}
+#dropdown2{
+    float: left;
+    margin-left: 18px;
+    height: 28px;
+    border: 1px solid rgb(230, 227, 227);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#choice-label3{
+    font-size: 20px; 
+    float: left;
+    text-align: right;
+    margin-left: 20px;
+}
+.choice2{
+    float: left;
+    text-align: left;
+    margin-left: 28px;
+}
+#anycomment-label{
+    font-size: 20px;
+    float: left;
+    margin-left: 120px;
+}
+#textinpt{
+    float: left;
+    margin-left: 18px;
+    height: 70px;
+    width: 30%;
+    border: 1px solid rgb(230, 227, 227);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#submit{
+    width: 20%;
+    height: 35px;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(37, 49, 224);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 90px;
+    cursor: pointer;
+}
